@@ -95,23 +95,21 @@ nav ul li:hover{
    
     display: flex;
     justify-content: space-around;
-    display: inline-block;
-    margin: 50px;
- 
+    align-items: flex-start;
+    margin: 50px; 
+
 }
 .tr{
     
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
-    display: inline-block;
     margin: 50px;
 }
 .wia{
     
     display: flex;
     justify-content: space-around;
-    display: inline-block;
     margin: 50px;
 }
 .hf{
@@ -135,12 +133,14 @@ nav ul li:hover{
 
 }
 /* حركات بركات البطايق  */
-/* بسوي بس الاربعه هذولا لاني تعبت  */
+h5{
+    color: #81b29a;
+}
 .W1{
     width: 150px;
     border: none;
     outline: none;
-    background-color: #fff;
+    background-color: #293241;
     border-radius: 20px;
     transition: transform .3s;
     text-align: center;
@@ -162,7 +162,7 @@ nav ul li:hover{
     width: 150px;
     border: none;
     outline: none;
-    background-color: #fff;
+    background-color: #293241;
     border-radius: 20px;
     transition: transform .3s;
     text-align: center;
@@ -176,7 +176,7 @@ nav ul li:hover{
     width: 150px;
     border: none;
     outline: none;
-    background-color: #fff;
+    background-color: #293241;
     border-radius: 20px;
     transition: transform .3s;
     text-align: center;
@@ -190,7 +190,7 @@ nav ul li:hover{
     width: 150px;
     border: none;
     outline: none;
-    background-color: #fff;
+    background-color: #293241;
     border-radius: 20px;
     transition: transform .3s;
     text-align: center;
@@ -200,3 +200,443 @@ nav ul li:hover{
     transition: transform .3s;
 
 }
+
+.W5{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W5:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+
+.W6{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W6:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+
+.W7{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W7:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W8{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W8:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W9{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W9:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}.W10{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W10:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W11{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W11:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+
+.W12{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W12:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+/* for movie page */
+.W13{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W13:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W14{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W14:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W15{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W15:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W16{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W16:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W17{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W17:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W18{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W18:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W19{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W19:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W20{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W20:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W21{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W21:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W22{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W22:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W23{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W23:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+/* series page */
+.W24{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W24:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W25{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W25:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W26{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W26:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W27{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W27:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W28{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W28:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W29{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W29:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W30{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W30:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W31{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W31:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W32{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W32:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W33{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W33:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W34{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W34:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+.W35{
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: #293241;
+    border-radius: 20px;
+    transition: transform .3s;
+    text-align: center;
+}
+.W35:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+
+}
+/* end of it  */
